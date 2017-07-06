@@ -1,8 +1,10 @@
-La coopération, à quoi ca sert ?
+#La coopération, à quoi ca sert ?
 
-"Aucun de nous, en agissant seul, ne peut atteindre le succès." Nelson Mandela
+>"Aucun de nous, en agissant seul, ne peut atteindre le succès." **Nelson Mandela**  
 
-a coopération consiste à faire avec les autres ce que nous ne savons pas faire seul.
+![Boom](./Casert.png "La coopération à quoi ça sert")
+
+La coopération consiste à faire avec les autres ce que nous ne savons pas faire seul.
 
 Elle a été le catalyseur de notre développement. Sans la coopération et le partage, l’humanité n’aurait pas atteint un tel niveau de compétences.
 Imaginez votre vie si lors de l’invention du feu, de la roue ou de l’écriture, les “découvreurs” avaient privilégié l’intérêt individuel à l’intérêt collectif...
