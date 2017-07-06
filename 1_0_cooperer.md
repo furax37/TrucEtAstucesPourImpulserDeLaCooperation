@@ -21,9 +21,11 @@ Or, savoir coopérer est une des compétences orphelines des systèmes éducatif
 ![coopérer quesaco](./Kesaco.png)
 
 L’objectif de ce petit opuscule est de vous proposer des cadres théoriques, quelques méthodes et outils pour vous donner envie de faire monter le curseur de la coopération autour de vous.
-Commencez petit, distillez de “petites expériences irréversibles de coopération”, vous verrez, le virus prend vite.
+Commencez petit, distillez de “petites expériences irréversibles de coopération”, vous verrez, le virus prend vite.  
 
-Pour aller plus loin, le site ebook.coop-tic.eu, résultat d’un projet européen Léonardo destiné à former des formateurs à l’animation de projets coopératifs, est fait pour vous. Il est pillable et photocopiable, comme cet ouvrage, sous les conditions de la licence Creative Commons BY-SA.
+Pour aller plus loin, le site [ebook.coop-tic.eu](http://ebook.coop-tic.eu/ "Cliquez ici pour accéder à l'ebook"), résultat d’un projet européen Léonardo destiné à former des formateurs à l’animation de projets coopératifs, est fait pour vous. Il est pillable et photocopiable, comme cet ouvrage, sous les conditions de la licence Creative Commons BY-SA.  
 
-Pour terminer, nous sommes convaincus que la marge de progression concernant la compréhension des conditions favorisant la coopération est énorme. N’hésitez donc pas à analyser vos pratiques, à les partager, à les diffuser… il est possible qu’à plusieurs, nous soyons moins bêtes que tout seul.
+Pour terminer, nous sommes convaincus que la marge de progression concernant la compréhension des conditions favorisant la coopération est énorme. N’hésitez donc pas à analyser vos pratiques, à les partager, à les diffuser…   
+
+Il est possible qu’à plusieurs, nous soyons moins bêtes que tout seul.  
 
